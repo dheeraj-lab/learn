@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-	cout <<"hello from conflict branch!" << endl;
+	cout <<"hello from main branch!" << endl;
 	return 0;
 }
