@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-	cout <<"hello from MAIN branch!" << endl;
+	cout << "Merged line from both branches!" << endl;
 	return 0;
 }
